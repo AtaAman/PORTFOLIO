@@ -33,7 +33,7 @@ export default function Home() {
               '/>
               
               <p className='my-4 text-base font-large md:text-sm sm:text-xs'>
-              I'm a full-stack Software Engineer skilled in MERN stack, MongoDB, Express.js, Next.js, Node.js, React.js, TypeScript, JavaScript, Tailwind CSS. I'm passionate about DevOps, system design, and open source. Committed to staying ahead in tech, I ensure seamless and dynamic digital experiences for every project.
+              I&apos;m a full-stack Software Engineer skilled in MERN stack, MongoDB, Express.js, Next.js, Node.js, React.js, TypeScript, JavaScript, Tailwind CSS. I&apos;m passionate about DevOps, system design, and open source. Committed to staying ahead in tech, I ensure seamless and dynamic digital experiences for every project.
               </p>
               <div className='flex items-center self-start mt-2 lg:self-center'>
                 <Link href="/Resume.pdf" target={'_blank'}

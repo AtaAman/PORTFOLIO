@@ -51,14 +51,14 @@ const about = () => {
             <div className="col-span-3 flex flex-col items-start justify-start xl:col-span-4 lg:order-2 lg:col-span-8 md:order-2 md:col-span-8">
               <h2 className="mb-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75">About Me</h2>
               <p className="font-medium">
-                Hello, I&apos;m Aman ata,  full-stack Software Engineer skilled in the MERN stack, MongoDB, Express.js, Next.js, Node.js, React.js, TypeScript, JavaScript, Tailwind CSS, HTML, and CSS. With a passion for merging design and functionality, I continuously explore inventive ways to transform client visions into digital reality. Let's create exceptional web experiences together!
+                Hello, I&apos;m Aman ata,  full-stack Software Engineer skilled in the MERN stack, MongoDB, Express.js, Next.js, Node.js, React.js, TypeScript, JavaScript, Tailwind CSS, HTML, and CSS. With a passion for merging design and functionality, I continuously explore inventive ways to transform client visions into digital reality. Let&apos;s create exceptional web experiences together!
               </p>
 
               <p className="my-4 font-medium">
-              I am from Khagaria Bihar, India. With a Bachelor's of Engineering in Computer Science from Chandigarh University, I started a journey to shape the digital world through captivating and user-friendly web experiences.
+              I am from Khagaria Bihar, India. With a Bachelor&apos;s of Engineering in Computer Science from Chandigarh University, I started a journey to shape the digital world through captivating and user-friendly web experiences.
               </p>
               <p className="my-4 font-medium">
-              Ready to bring your web project? Whether it's a personal blog, a business website, or a web application, let's collaborate and create something remarkable together. Contact me to get started today!
+              Ready to bring your web project? Whether it&apos;s a personal blog, a business website, or a web application, let&apos;s collaborate and create something remarkable together. Contact me to get started today!
               </p>
             </div>
 
